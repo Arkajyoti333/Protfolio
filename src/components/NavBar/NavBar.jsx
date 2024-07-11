@@ -3,8 +3,8 @@ import React from "react";
 const NavBar = () => {
   return (
     <>
-      <div>
-        
+      <div className="flex justify-center items-center font-semibold text-3xl ">
+        This is navbar
       </div>
     </>
   );
