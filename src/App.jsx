@@ -6,7 +6,7 @@ const  App=()=> {
       <div>
      
         <p className='font-extrabold'>
-          Arkajyoti
+          Arkajyoti kundu
         </p>
       </div>
     </>
