@@ -4,7 +4,10 @@ const  App=()=> {
   return (
     <>
       <div>
-        
+     
+        <p className='font-extrabold'>
+          Arkajyoti
+        </p>
       </div>
     </>
   )
